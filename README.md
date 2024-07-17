@@ -48,6 +48,6 @@ to run TOR service:<br>
 </code>
 <h2>Running the tools:</h2>
 <h3>HTTP Flood tool: ( up to 10k requests per second from 1 machine ) </h3>
-<code>python3 ./HTTP/http_flooder.py
+<code>python3 ddos.py
 </code>
 <br>
